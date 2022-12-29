@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** - https://kind-pond-037f61d00.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://youtu.be/zMy9j9D8Mq8
 
 ## Azure technologies used for Project
 
@@ -15,11 +15,12 @@ This is a web based application developed for health related based website in in
 
 ## Features and Functionalities 😃
 
-- Interactive and responsive UI.
+- Easy to navigate and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
+- User can easily attract for this website design.
 - Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
-- User can know about health information through this website.
+- User can know about health information  about covid and prevent by knowing through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
